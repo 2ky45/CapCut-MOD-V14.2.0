@@ -1,6 +1,6 @@
 # 🎬 **CapCut Pro 14.1.0 Mod APK** **[![Download CapCut Pro](https://img.shields.io/badge/Download-CapCut%20Pro%2014.1.0-blueviolet)](../../releases)**
 
-![CapCut Pro Preview](/assets/CupCutPro.png)
+![CapCut Pro Preview](/assets/CapCutPro.png)
 
 ## 📥 Quick Installation
 To install **CapCut Pro 14.1.0 Mod APK**, follow these steps:
